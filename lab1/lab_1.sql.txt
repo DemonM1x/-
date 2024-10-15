@@ -1,0 +1,46 @@
+hero(invoker).
+hero(wraith king).
+hero(enchantres).
+hero(natures prophet).
+hero(lina).
+hero(crystal maden).
+hero(techies).
+hero(anti-mage).
+hero(centaur warrunner).
+hero(razor).
+hero(dark villow).
+hero(pangolier)
+hero(spirit braker).
+hero(huskar).
+hero(lion).
+hero(dynamo).
+hero(shadow).
+hero(haze).
+hero(gendzi0).
+hero(tracer).
+hero(batist).
+
+games_hero(dota, invoker).
+games_hero(dota, lina).
+games_hero(dota, crystal maden).
+games_hero(dota, natures prophet).
+games_hero(dota, centaur warrunner).
+games_hero(deadlock,dynamo).
+games_hero(deadlock, shadow).
+games_hero(overwatch, tracer).
+games_hero(overwatch, batist).
+sister(lina, crystal maden).
+sister(crystal maden, lina).
+lovers(natures prophet, enchantres).
+lovers(enchantres, natures prophet).
+lovers(dark villow, pangolier).
+lovers(pangolier, dark villow).
+skill(inner fire, huskar).
+skill(blink, anti-mage).
+skill(charge, tracer).
+skill(black hole, dynamo).
+skill(barrier, batist).
+
+
+
+
